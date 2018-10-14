@@ -1,5 +1,6 @@
 # dialog-test
 Среда python3, нужны пакеты:
-keras
-numpy
-sklearn
+1. keras
+2. numpy
+3. sklearn
+4. matplotlib
